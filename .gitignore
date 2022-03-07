@@ -1,2 +1,8 @@
 *.rbc
 *.fyc
+
+node_modules
+
+.eslintrc.json
+
+.idea
